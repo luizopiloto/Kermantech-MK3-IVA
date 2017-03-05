@@ -19,7 +19,7 @@ Removing this mod is as simple as deleting the GameData/Kermantech folder.
 
 ## Licenses
 
-The contents of this mod are released under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) license (CC BY-NC-SA 4.0) with the following exceptions:
+The contents of this mod are released under the Creative Commons [Attribution-NoDerivs 3.0 Unported](https://creativecommons.org/licenses/by-nd/3.0/) license (CC BY-ND 3.0) with the following exceptions:
 
 All props and textures included in this mod were originally created by Alexustas.  They are covered by the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA).
 Some of them have been modified for inclusion in this mod.
