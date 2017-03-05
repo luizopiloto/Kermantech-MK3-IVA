@@ -1,0 +1,28 @@
+	PROP
+	{
+		name = Seat_Pilot
+		position = 0.425,0.37,-0.2
+		rotation = 0,1,0,0
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = Seat_Pilot
+		position = -0.425,0.37,-0.2
+		rotation = 0,1,0,0
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = Seat_Pilot
+		position = 0.3,0.37,0.27
+		rotation = 0,1,0,0
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = Seat_Pilot
+		position = -0.3,0.37,0.27
+		rotation = 0,1,0,0
+		scale = 1,1,1
+	}
