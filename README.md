@@ -27,6 +27,6 @@ Some of them have been modified for inclusion in this mod.
 ## Revision History
 
 ### 0.1.0 - 03-2017
-* Initial Release
+* Initial Pre-Release
 
 Manuals, Usage info to be included in a later date.
