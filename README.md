@@ -5,11 +5,11 @@ A Kerbal Space Program mod with an improved IVA for the stock MK3 Shuttle Cockpi
 
 The following are all requirements for using Kermantech MK3 IVA (and not included in this package):
 
-* Kerbal Space Program v1.2.2 or later
+* Kerbal Space Program v1.3.0 or later
 * [ASET Avionics Pack](http://forum.kerbalspaceprogram.com/threads/129364) v2.0 or later
 * [ASET Props Pack](http://forum.kerbalspaceprogram.com/threads/129305) v1.4 or later
-* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.7.5 or later
-* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.28.0 or later
+* [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) v2.8.1 or later
+* [RasterPropMonitor](http://forum.kerbalspaceprogram.com/threads/117471) v0.29.0 or later
 
 ## Installation
 
